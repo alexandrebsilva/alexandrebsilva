@@ -1,4 +1,9 @@
 ### Hi there 👋
+Welcome to my github !
+
+I am a passionate software engineer who is always trying to think outside the box. I love exciting challenges and learning new technologies.
+
+I am currently working with Javascript and Typescript
 
 <!--
 **alexandrebsilva/alexandrebsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
